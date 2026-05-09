@@ -7,7 +7,7 @@ Hides the Amazon shipping address until toggled via popup.
 
 ### Download
 - ~~Chrome Webstore~~
-- [GitHub Releases](https://github.com/otoneko1102/amazon-address-protection/releases)
+- [GitHub Releases](https://github.com/otnc/amazon-address-protection/releases)
 
 ## Get Support
 <a href="https://discord.gg/yKW8wWKCnS"><img src="https://discordapp.com/api/guilds/1005287561582878800/widget.png?style=banner4" alt="Discord Banner"/></a>
